@@ -32,3 +32,23 @@ dict.pop() to delete the exact key and value pair
 
 
 
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_18/07/2026\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+
+
+**Set:**
+
+Set stores unique values.
+
+Why the order in set does not change for numbers but changes for characters/Strings. Because set stores value/object based on their hash values. and for number the hash values are themselves 
+
+
+
+**Dictionaries:** 
+
+It is also a sequence but it stores values in the form of key and values pairs.
+
+
+
+
+
