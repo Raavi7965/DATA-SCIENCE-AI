@@ -114,7 +114,7 @@ EX: MYSQL, SQLLITE, POSTGRE SQL, ORACLE.
 
 **What is NRDBMS:**
 
-The database which stores in the unstructed and semi structed data in it is called Non Relational DBMS 
+The database which stores in the unstructed and semi structed data in it is called Non Relational DBMS
 
 EX: Cassandra, NOSQL and MongoDB.
 
@@ -128,99 +128,11 @@ It is a software tool to manage the Relational database management System.
 
 **What is SQL?**
 
-It is a Programming language which handles 
+It is a Programming language which handles
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_17/07/2026 Day2 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
