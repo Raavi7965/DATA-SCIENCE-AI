@@ -166,135 +166,119 @@ It is used to store the numeric values in it. we are using 5 types of numeric Da
 
 
 
-1.TINYINT : Signed value -128 to 127  Unsigned value 0 to 255
+**1.TINYINT** : Signed value -128 to 127  Unsigned value 0 to 255
 
 ex: Age and Semesters
 
 
 
-Smallint : It stores the value in between -32768 to +32767 usingned value is 65535 
+**Smallint :** It stores the value in between -32768 to +32767 usingned value is 65535
 
 ex: Marks
 
 
 
-Mediumint: It is store the value in between -8.3million to +8.3million byte size is 3 bytes. 
+**Mediumint:** It is store the value in between -8.3million to +8.3million byte size is 3 bytes.
 
 Ex: population in a city or town
 
 
 
-Int: We can store upto -2.1 billion to +2.1 billion unsigned value is 0 to 4.2 billion byte size is 4 
+Int: We can store upto -2.1 billion to +2.1 billion unsigned value is 0 to 4.2 billion byte size is 4
 
 
 
+**int**
 
+population in a city or town +2.1 billions unsigned value is 0 to 4.2 billion byte size is 4
 
+ex : prodectid, employeeid
 
 
 
+**bigint:** we can store upto -9.2 quintillion to +9.2 unsigned values is o to 18.4 quintillion byte size 8
 
 
 
+**Float:** we can used to store the decimal approximate values in 0 to 7
 
+ex: temperature, scientific calculations.
 
 
 
+**Double:** approximate range upto 15-16
 
+ex: engineering calculations
 
 
 
+**Decimal:** we can store the values using precision and scale decimal(p,s)
 
+ex:salary
 
 
 
+**Sring datatypes**
 
+it is a group or combination of characters is called as strings 
 
 
 
+1.Char()
 
 
 
+char(10)\\
 
+'chandu'
 
+'chandu\_\_\_
 
+it is fixed length faster then varchar
 
+ex: phone number , adhaar number,pancard number
 
+it is stored in the from of 
 
 
 
+varchar()
 
+varchar(120)
 
+'uma'
 
+o/p:'uma'
 
+it stores only variables length memory efficient
 
+ex. names, gmails.
 
 
 
+**3.Text()**: it used to store the paragraphs.
 
+ex. summaries , feed backs , gossips.
 
+&#x20;
 
+**4. Data \& Time :** it is used to store the date in the from of data and time.
 
 
 
+**1. Data** :it is used to store only date.
 
+ex:date of birth and joining time
 
 
 
+**2.time:** it is used to store both date and time . ex Train bookings, and all other bookings 
 
 
 
 
 
+**3. time stamp:** it is used to store the time with milliseconds
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ex: running race, login, and logouts
 
