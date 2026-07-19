@@ -134,5 +134,167 @@ It is a Programming language which handles
 
 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_17/07/2026 Day2 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_18/07/2026 Day2\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+
+
+**MySQL:**
+
+
+
+It is a software deals with rdbms with sql.
+
+
+
+DataTypes:
+
+We are using 3 types of Data types in MySQL
+
+1.Numeric
+
+2.String
+
+3.Date and Time
+
+
+
+**Numeric Data Type:**
+
+It is used to store the numeric values in it. we are using 5 types of numeric Data types
+
+
+
+1.TINYINT : Signed value -128 to 127  Unsigned value 0 to 255
+
+ex: Age and Semesters
+
+
+
+Smallint : It stores the value in between -32768 to +32767 usingned value is 65535 
+
+ex: Marks
+
+
+
+Mediumint: It is store the value in between -8.3million to +8.3million byte size is 3 bytes. 
+
+Ex: population in a city or town
+
+
+
+Int: We can store upto -2.1 billion to +2.1 billion unsigned value is 0 to 4.2 billion byte size is 4 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
