@@ -220,7 +220,7 @@ ex:salary
 
 **Sring datatypes**
 
-it is a group or combination of characters is called as strings 
+it is a group or combination of characters is called as strings
 
 
 
@@ -238,7 +238,7 @@ it is fixed length faster then varchar
 
 ex: phone number , adhaar number,pancard number
 
-it is stored in the from of 
+it is stored in the from of
 
 
 
@@ -272,7 +272,7 @@ ex:date of birth and joining time
 
 
 
-**2.time:** it is used to store both date and time . ex Train bookings, and all other bookings 
+**2.time:** it is used to store both date and time . ex Train bookings, and all other bookings
 
 
 
@@ -281,4 +281,136 @@ ex:date of birth and joining time
 **3. time stamp:** it is used to store the time with milliseconds
 
 ex: running race, login, and logouts
+
+
+
+
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_20/07/2026\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_-**
+
+
+
+**DAY-3 COMMANDS:**
+
+
+
+**1.DDL Data Definition Language:**
+
+&#x20;         It is used to define or create , update , rename , and delete the database or tables is called as DDl.
+
+Types of DDl:
+
+* Create:To create the databases and tables, 
+
+&#x20;  Syntax: create database databasename;   #for creating database
+
+&#x20;          Create table tablename;         # for table creation  
+
+
+
+* Alter: It is used to add, update , rename, and delete the column in table.
+
+&#x20;  Syntax: 
+
+&#x20;       add a column:
+
+&#x20;         1. alter table tablename add column columnname datatype;
+
+&#x20;       modify a column in data type:
+
+&#x20;         2. alter table tablename modify column columnname datatype;
+
+&#x20;       rename:
+
+&#x20;         3.alter table tablname rename column columanname to columnname1;
+
+&#x20;       drop:
+
+&#x20;         4. alter table tablename drop column columanname;
+
+&#x20;      Truncate; The Structre is constant but the data should be deleted;
+
+&#x20;         Syntax:
+
+&#x20;             truncate table tablename
+
+**2.DML** 
+
+
+
+
+
+
+
+**3.DQL**
+
+
+
+**4.DCL**
+
+
+
+**5.DDL**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&#x20;        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

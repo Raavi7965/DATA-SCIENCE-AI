@@ -64,3 +64,117 @@ Dictionary stored the values in it the order of the keys inserted in to the dict
 
 eg: founder of an company
 
+
+
+
+
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_20/07/2026\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+**Data Type Conversion  VS Type Casting:**
+
+
+
+Type Conversion: 
+
+&#x20;           The automatic assigning of data type when we perform operation between two different data types is called conversion. Type conversion is only possible between supportive data types.
+
+
+
+
+
+**Type Casting:** 
+
+&#x20;     Here the user changes the data type of an object manually. We use data type functions to type cast one data object into another data object. Here also type casting  can happen only between supportive objects
+
+
+
+**Dynamically typed:**
+
+&#x20;       Here we don't have to mention the type of the value we are passing into our program, we just pass the values and python automatically assigns data types to them based on the values.
+
+
+
+**Range range()  and Length  len() functions:**
+
+
+
+It is used to generate numbers. It takes three values start, stop, and step.
+
+
+
+Syntax: Rules to write a program.
+
+Syntax: range(start, stop , step)
+
+start: from  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
