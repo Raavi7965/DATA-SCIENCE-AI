@@ -78,7 +78,7 @@ eg: founder of an company
 
 
 
-Type Conversion: 
+Type Conversion:
 
 &#x20;           The automatic assigning of data type when we perform operation between two different data types is called conversion. Type conversion is only possible between supportive data types.
 
@@ -86,7 +86,7 @@ Type Conversion:
 
 
 
-**Type Casting:** 
+**Type Casting:**
 
 &#x20;     Here the user changes the data type of an object manually. We use data type functions to type cast one data object into another data object. Here also type casting  can happen only between supportive objects
 
@@ -110,7 +110,135 @@ Syntax: Rules to write a program.
 
 Syntax: range(start, stop , step)
 
-start: from  
+start: from
+
+
+
+
+
+
+
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_21/07/2026\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+**Mutable/changable and immutable/non changable objects:**
+
+Operation is a symbol that perform some action between one or more than 
+
+Mutable/changable and Immutable/non changable
+
+Object:
+
+**Mutable Object:**
+
+&#x09;Object which can be edited after they created.
+
+**Immutable Object:**
+
+&#x09;Object which can't be edited after they created.
+
+
+
+Immutable:					Mutable:
+
+Integer						List
+
+float						set
+
+complex						dictionary
+
+tuple
+
+string
+
+
+
+**Note:**
+
+&#x09;Operator we use to check Immutable and Mutable is +=.
+
+&#x09;
+
+**Input() function:**
+
+&#x09;This function is used to pass the values into my program after the execution of the program.
+
+
+
+**Operators:**
+
+&#x09;operator is a symbol that performs some action between one or more then one objects.
+
+Types of operators:
+
+
+
+**Arithmetic:**
+
+&#x09;These operator are used to perform mathematical operations in our program.
+
+&#x09;operators:+,-,\*,/,//,%,\*\*.
+
+
+
+**Assignment:**
+
+&#x09;
+
+Comparison/relational
+
+Logical
+
+Identity
+
+Membership
+
+Bitwise
+
+warlus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
