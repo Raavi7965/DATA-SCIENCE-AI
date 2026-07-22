@@ -126,7 +126,7 @@ start: from
 
 **Mutable/changable and immutable/non changable objects:**
 
-Operation is a symbol that perform some action between one or more than 
+Operation is a symbol that perform some action between one or more than
 
 Mutable/changable and Immutable/non changable
 
@@ -198,73 +198,27 @@ Membership
 
 Bitwise
 
-warlus
+walrus
 
 
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_22/07/2026\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
 
+**Assignment Operators:**
 
+=,+=,-=,\*=,/=,//=,\*\*=
 
+These are used to assign a value to a variable.
 
 
 
+**Comparison Operator:**
 
+Two compare values of two objects and they return Boolen value as an output.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+==, !=, > , <, <=,>=
 
 
 
