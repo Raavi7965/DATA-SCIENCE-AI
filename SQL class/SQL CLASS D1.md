@@ -134,7 +134,7 @@ It is a Programming language which handles
 
 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_18/07/2026 Day2\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_18/07/2026 Day2\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
 
@@ -286,47 +286,55 @@ ex: running race, login, and logouts
 
 
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_20/07/2026\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_-**
-
-
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_20/07/2026\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **DAY-3 COMMANDS:**
 
 
 
-**1.DDL Data Definition Language:**
+**1.DDL Data Definition Language:** It is the define the structed of database
 
 &#x20;         It is used to define or create , update , rename , and delete the database or tables is called as DDl.
 
 Types of DDl:
 
-* Create:To create the databases and tables, 
+* Create:To create the databases and tables,
+
+
 
 &#x20;  Syntax: create database databasename;   #for creating database
 
-&#x20;          Create table tablename;         # for table creation  
+&#x20;          Create table tablename;         # for table creation
 
 
 
 * Alter: It is used to add, update , rename, and delete the column in table.
 
-&#x20;  Syntax: 
+&#x20;  Syntax:
 
 &#x20;       add a column:
 
 &#x20;         1. alter table tablename add column columnname datatype;
 
+
+
 &#x20;       modify a column in data type:
 
 &#x20;         2. alter table tablename modify column columnname datatype;
+
+
 
 &#x20;       rename:
 
 &#x20;         3.alter table tablname rename column columanname to columnname1;
 
+
+
 &#x20;       drop:
 
 &#x20;         4. alter table tablename drop column columanname;
+
+
 
 &#x20;      Truncate; The Structre is constant but the data should be deleted;
 
@@ -334,7 +342,43 @@ Types of DDl:
 
 &#x20;             truncate table tablename
 
-**2.DML** 
+
+
+
+
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_22/07/2026\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+**2.DML Data Manipulation language :** It is a used to modify the data
+
+&#x20;   Types in DML are Insert, Update and Delete
+
+
+
+&#x09;1.Insert: It is insert the values to the table.
+
+&#x09;Syntax: Insert into tablename values(Column values);
+
+
+
+&#x09;2.Update: To update the data
+
+&#x20;       Syntax: Update  table tablename  set column = value    <i>~~NOTE SET SQL\_SAFE\_UPDATES=0;~~</i>
+
+&#x09;"**Apply condation**" :update tablename set columnname =value  where column=value
+
+&#x09;We use where clause for to change the value in that particular row with primary key column value.
+
+&#x09;
+
+&#x09;3.Delete: TO delete
+
+&#x09;Syntax: Delete from tablename
+
+&#x09;
 
 
 
@@ -370,47 +414,5 @@ Types of DDl:
 
 
 
-&#x20;        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+&#x20;
 
