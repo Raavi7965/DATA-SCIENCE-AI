@@ -382,11 +382,61 @@ Types of DDl:
 
 
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_23/07/2026\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
 
 
-**3.DQL**
+
+**3.DQL Data Query Language:**
+
+&#x09;DQL is used to retrieve the data from the database.
+
+&#x09;Select: It is used to retrieve the data from a table.
+
+&#x09;Syntax:
+
+&#x09;	To retrieve a single column select column name from tablename;
+
+&#x09;	To retrieve complete table select\*from tablename
+
+
+
+Constraints: It works by using some rules to be applied to retrieve the data.
+
+
+
+**Why we use?**
+
+To maintain the accuracy and consistency;
+
+
+
+**Where we use it?**
+
+While creating a table.
+
+
+
+&#x09;1.Not Null :  It doesnot allow null values in that column . if null values should be there it shows an error.
+
+
+
+Syntax: Create table tablename (columnname datatype notnull);
+
+
+
+&#x09;2.Unique:  It doesnot allows duplicate value
+
+Syntax: create table tablename(columnname datatype unique);
+
+
+
+&#x09;3.Primary Key : It does not allows null values and duplicates in the table
+
+Syntax: Create table tablename(columnname datatype primary key);
+
+&#x20;	4.
 
 
 

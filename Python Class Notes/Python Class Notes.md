@@ -232,11 +232,57 @@ Two compare values of two objects and they return Boolen value as an output.
 
 **Logical Operators:**
 
-&#x09;It is used to evaluate one or more than one condition at once. 
+&#x09;It is used to evaluate one or more than one condition at once.
 
 &#x20;  Operators: AND, OR, NOT
 
 
+
+AND True Table:
+
+
+
+con1	con2	result
+
+True	True	True
+
+True	False	False
+
+False	True	False
+
+False	False	False
+
+
+
+
+
+OR True Table:
+
+
+
+con1	con2	result
+
+True	True	True
+
+True	False	True
+
+False	True	True
+
+False	False	False
+
+
+
+
+
+NOT True Table:
+
+
+
+con1	result
+
+True	False
+
+False	True
 
 
 
@@ -261,62 +307,4 @@ Two compare values of two objects and they return Boolen value as an output.
 
 
 &#x20;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

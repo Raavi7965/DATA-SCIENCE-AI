@@ -24,6 +24,9 @@ cash = 'Yes'
 upi = 'Yes'
 print(card=='Yes' or cash=='Yes' or upi=='Yes')
 
+#not
+age = 20
+print(not age < 18)  # True, negates the condition
 
 ## IDENTITY OPERATORS
 #IS
