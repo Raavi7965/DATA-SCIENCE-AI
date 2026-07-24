@@ -61,4 +61,6 @@ print('bose' in names)
 print('venkatesh'in names)
 
 # NOT IN 
-
+names=['venkatesh','sumanth','uma','abishay','akash']
+print('bose' not in names)
+print('venkatesh'not in names)
